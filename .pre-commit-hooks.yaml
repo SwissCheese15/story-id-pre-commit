@@ -2,4 +2,4 @@
     name: pre-commit-story-id
     description: 'Add the Clickup Story ID to the end of the commit message.'
     entry: pre-commit-story-id
-    language: shell
+    language: script

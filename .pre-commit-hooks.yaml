@@ -1,5 +1,5 @@
 - repo: https://github.com/SwissCheese15/story-id-pre-commit
   rev: main
   hooks:
-    - id: story-id-pre-commit
+    - id: pre-commit-story-id
       stages: [ commit-msg ]
